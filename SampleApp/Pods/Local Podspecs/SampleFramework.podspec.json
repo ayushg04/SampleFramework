@@ -1,0 +1,22 @@
+{
+  "name": "SampleFramework",
+  "version": "1.0.0",
+  "summary": "A short description of SampleFramework.podspec.",
+  "description": "A short sample project to describe the framework in xcode",
+  "homepage": "https://github.com/ayushg04/SampleFramework",
+  "license": "MIT",
+  "authors": {
+    "Ayush Gaur": "ayush.gaur@unthinkable.co"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/ayushg04/SampleFramework.git",
+    "branch": "main",
+    "tag": "1.0.0"
+  },
+  "source_files": "SampleFramework/SampleFramework/*.swift",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}
